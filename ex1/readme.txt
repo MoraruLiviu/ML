@@ -1,0 +1,1 @@
+datele trebuie introduse in fisierul ex1 si vor fi mutate in folderele corespunzatoare prin cod
